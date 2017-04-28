@@ -1,3 +1,4 @@
 hello I am test.txt
 test rebase
 hello diff tool
+hello test.txt
